@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Require-Bundle: com.primeton.eos.richweb,com.eos.foundation,com.eos.wo
+ rkflow
+eos-webCtxPath: sample
+Bundle-Vendor: Young
+Bundle-Version: 1.0.0
+Bundle-Name: com.young.eos
+Bundle-Description: 
+Bundle-SymbolicName: com.young.eos.demo1
+

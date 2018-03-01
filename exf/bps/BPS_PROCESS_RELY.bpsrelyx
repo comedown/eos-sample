@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<relyList>
+  <rely>
+    <catalogID>-1</catalogID>
+    <processID>com.young.eos.workflow.leaveSample</processID>
+  </rely>
+  <rely>
+    <catalogID>-1</catalogID>
+    <processID>com.young.eos.workflow.bran_join_back</processID>
+  </rely>
+</relyList>
